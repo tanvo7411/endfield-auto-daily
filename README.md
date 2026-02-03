@@ -61,8 +61,8 @@ You have to check in manually first to get your auth token, follow these steps (
    <summary>
       Insert both <code>SK_OAUTH_CRED_KEY</code> and <code>SK_TOKEN_CACHE_KEY</code> then click Add secret. You can input as many accounts, separate it with a new line (Enter).
    </summary>
-  <img width="457" height="425" alt="image" src="https://github.com/user-attachments/assets/25c8cbee-160c-495a-b0e8-557840735965" />
-  <img width="457" height="426" alt="image" src="https://github.com/user-attachments/assets/bb53a94c-4106-4444-8cae-a158a82168f9" />
+   <img width="457" height="425" alt="image" src="https://github.com/user-attachments/assets/25c8cbee-160c-495a-b0e8-557840735965" />
+   <img width="457" height="426" alt="image" src="https://github.com/user-attachments/assets/bb53a94c-4106-4444-8cae-a158a82168f9" />
    </details>
 
 6. <details>
